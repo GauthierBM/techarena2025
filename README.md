@@ -11,9 +11,9 @@ Using this theme, the challenge was to upload a LLM pipeline which is the most a
 For this purpose, we used Qwen3 1.7B
 
 ## Contents
-** Fine-tuning Program
-** Rag trainer and extractor
-** Difficulty Classifier
-** Different Prompt Engineering
-** A calculator tool
-** An AI pipeline which combines different methods
+  * Fine-tuning Program
+  * Rag trainer and extractor
+  * Difficulty Classifier
+  * Different Prompt Engineering
+  * A calculator tool
+  * An AI pipeline which combines different methods
